@@ -1,0 +1,113 @@
+id,fecha,tipo,monto,descripcion,etiquetas,recurrente_id,moneda_original,monto_original
+txn_1779727728780,2026-05-14,ingreso,6491.23,Bono mayo (ajuste inicio),bono|trabajo,,MXN,6491.23
+txn_1779727949598,2026-05-14,ingreso,2000.0,Regalo cumple Quitos,Cumpleaños,,MXN,2000.0
+txn_1779731329908,2026-05-17,gasto,500.0,Poker Night — (me deje para que Max tuviera un mejor regalo de cumple),Amigos,,MXN,500.0
+txn_1779731379950,2026-05-14,ingreso,2000.0,Regalo Mama,Cumpleaños,,MXN,2000.0
+txn_1779732312900,2026-04-16,gasto,114.0,Comida IBM,Comida,,MXN,114.0
+txn_1779732384688,2026-05-18,gasto,184.0,Comida Iteso,Comida,,MXN,184.0
+txn_1779732518895,2026-04-17,gasto,468.36,Wuthering Heights,Amazon|Libros,,MXN,468.36
+txn_1779732631528,2026-04-18,gasto,184.0,Tacos,Comida,,MXN,184.0
+txn_1779732662036,2026-04-23,gasto,95.0,Itacate,Comida,,MXN,95.0
+txn_1779732737367,2026-04-26,gasto,103.0,Starbucks,Comida,,MXN,103.0
+txn_1779732759495,2026-04-30,gasto,124.0,Cafe Paulette,Comida,,MXN,108.0
+txn_1779732849607,2026-05-01,gasto,250.5,Oxxo — compre unas cosas de mi papa,,,MXN,250.5
+txn_1779733070735,2026-05-07,gasto,95.0,Itacate,Comida,,MXN,95.0
+txn_1779733094711,2026-05-10,gasto,399.0,GPT,LLM,,MXN,399.0
+txn_1779733132404,2026-05-13,gasto,2248.26,Dr. Marten,Amazon,,MXN,2248.26
+txn_1779733175802,2026-05-16,gasto,197.0,Flor de cordoba,Comida,,MXN,197.0
+txn_1779733220738,2026-05-17,gasto,1677.0,Oyasami Punpun,Amazon|Libros,,MXN,1677.0
+txn_1779733265522,2026-05-17,gasto,1272.48,Dostoevsky book box set,Amazon|Libros,,MXN,1272.48
+txn_1779733288987,2026-05-20,gasto,72.0,Comida IBM,Comida,,MXN,72.0
+txn_1779733327587,2026-05-25,gasto,490.1,Pluma y cuaderno,Amazon,,MXN,490.1
+txn_1780073162983_a74786,2026-05-28,gasto,100.0,Tacos Español,Comida,,MXN,100.0
+txn_1780074128901_88c933,2026-05-28,gasto,176.0,Backrooms,Cine,,MXN,176.0
+txn_1781815011073_dd57a3,2026-06-16,gasto,54.0,Cafe ibm,Comida|Cafe,,MXN,54.0
+txn_1781815050525_9442e8,2026-06-16,gasto,72.0,Pizza + Agua IBM,Comida,,MXN,72.0
+txn_1781815130416_134c04,2026-06-13,gasto,199.0,AudioBookShelf,HomeLab,,MXN,199.0
+txn_1781815276693_f134d7,2026-05-30,gasto,290.02,Silence,Libros|Amazon,,MXN,290.02
+txn_1781815321599_c51a89,2026-05-31,gasto,246.26,The Idiot,Amazon|Libros,,MXN,246.26
+txn_1781815353688_41bab9,2026-06-01,gasto,315.0,Crime and Punishment,Libros|Amazon,,MXN,315.0
+txn_1781815425186_2ee1d1,2026-06-04,gasto,28.0,Cafe IBM,Cafe|Comida,,MXN,28.0
+txn_1781815528959_1e693e,2026-06-09,gasto,129.0,Comida IBM,Comida,,MXN,129.0
+txn_1781815805430_32ac58,2026-06-06,gasto,132.0,OXXO,,,MXN,132.0
+txn_1783024761290_27f407,2026-06-04,gasto,28.0,Boing,Comida|trabajo,,MXN,28.0
+txn_1783024966561_5e0adc,2026-06-06,gasto,132.0,Comida,Comida,,MXN,132.0
+txn_1783025021817_fc4b96,2026-06-09,gasto,129.0,Tacos,Comida|trabajo,,MXN,129.0
+txn_1783025083561_5a906f,2026-06-13,gasto,199.0,AudiobookShell,HomeLab|Libros,,MXN,199.0
+txn_1783025121992_d9b4bc,2026-06-16,gasto,72.0,Comida tango,Comida|trabajo,,MXN,72.0
+txn_1783025267014_2a5448,2026-06-16,gasto,54.0,Comida,Comida|trabajo,,MXN,54.0
+txn_1783025295800_890829,2026-06-19,ingreso,8.8,Cashback,,,MXN,8.8
+txn_1783025343175_e9f9c1,2026-06-19,gasto,643.09,Desodorante,Personal,,MXN,643.09
+txn_1783025377884_202a64,2026-06-19,gasto,324.0,We Have Always Lived in the Castle,Amazon|Libros,,MXN,324.0
+txn_1783025401386_b9b28e,2026-06-22,gasto,35.0,Comida,trabajo|Comida,,MXN,35.0
+txn_1783025450132_bd355f,2026-06-24,gasto,98.8,tacos IBM,Comida|trabajo,,MXN,98.8
+txn_1783025487436_3ac1dc,2026-06-24,gasto,235.0,Carta ITESO (para IBM),trabajo,,MXN,235.0
+txn_1783025642210_cde469,2026-06-24,gasto,249.15,Cotonetes,Personal,,MXN,249.15
+txn_1783025701503_c31ba4,2026-06-24,gasto,331.86,Cotonetes,Personal,,MXN,331.86
+txn_1783025732699_339893,2026-06-25,gasto,125.0,Comida IBM,trabajo|Comida,,MXN,125.0
+txn_1783025764764_43eb27,2026-06-29,gasto,49.0,Amazon Prime,Amazon,,MXN,49.0
+txn_1783025797288_95ecd2,2026-06-30,gasto,35.0,Boing,Comida|trabajo,,MXN,35.0
+txn_1783026294493_2f02bd,2026-07-01,gasto,125.0,Chilaquiles comedor IBM,Comida|trabajo,,MXN,125.0
+txn_1783292273393_e73c1e,2026-07-03,gasto,235.0,Oxxo Cumple Tian,Personal|Cumpleaños,,MXN,235.0
+txn_1783812538451_3ea9f1,2026-07-02,gasto,559.9,Red Rising,Amazon|Libros,,MXN,559.9
+txn_1783812595595_232741,2026-07-08,gasto,88.0,Cerveza HelHeim,Comida,,MXN,88.0
+txn_1783812814548_42863a,2026-07-07,gasto,89.99,Stardew Valley,Personal|Juegos|Steam,,MXN,89.99
+txn_1783812840789_d1e9ce,2026-07-07,gasto,51.59,Wallpaper Engine,Personal|Juegos|Steam,,MXN,51.59
+txn_1783812974058_b23428,2026-07-10,gasto,135.61,Ping Pong,Personal|trabajo,,MXN,135.61
+txn_1783813000103_6496c2,2026-07-11,gasto,329.0,USB-C Hub,Personal|trabajo,,MXN,329.0
+txn_1783987665779_9c9a34,2026-07-13,gasto,125.0,Comida IBM,Comida|trabajo,,MXN,125.0
+txn_1784077823158_758364,2026-07-14,gasto,125.0,Comida IBM,Comida|trabajo,,MXN,125.0
+txn_1784318199190_d609a2,2026-07-16,gasto,399.0,chatgpt,trabajo|Personal|LLM,,MXN,399.0
+txn_1784318255220_16cb3f,2026-07-15,gasto,125.0,Comida IBM,trabajo|Comida,,MXN,125.0
+txn_1784903463315_26bb6f,2026-07-20,gasto,125.0,Comida IBM,trabajo|Comida,,MXN,125.0
+txn_1784903486603_6d93bc,2026-07-20,gasto,101.2,Cafe el gran tostador,Cafe|Personal,,MXN,101.2
+txn_1784903515565_6a8468,2026-07-21,gasto,125.0,Comida IBM,trabajo|Comida,,MXN,125.0
+txn_1784903695298_13e08b,2026-07-22,gasto,149.99,Stardew Paola,Juegos|Personal|Steam,,MXN,149.99
+txn_1784904858905_8e4cfe,2026-07-21,gasto,521.49,[Recurrente] Red Rising series,Amazon|Libros,rec_1784904718782,MXN,521.49
+txn_1784905246712_2675ae,2026-07-15,ingreso,43.45,Cashback,,,MXN,43.45
+txn_1784905353552_ab313e,2026-07-23,gasto,189.75,First Love,Libros|Amazon,,MXN,189.75
+txn_1784905411237_872f54,2026-07-24,gasto,411.91,The brothers K,Amazon|Libros,,MXN,411.91
+txn_1784905480918_d868cb,2026-07-24,gasto,298.07,The Master and Margarita,Libros|Amazon,,MXN,298.07
+txn_1785009894801_dcacdf,2026-07-25,gasto,200.0,Menudo,Amigos|Comida,,MXN,200.0
+txn_1785009922955_bc9eed,2026-07-25,gasto,198.09,Pilas Carro/Airtag/PC,Personal,,MXN,198.09
+txn_1786027453796_f2390b,2026-07-27,gasto,54.0,Pizza,Comida|trabajo,,MXN,54.0
+txn_1786027480046_065704,2026-07-29,gasto,49.0,Prime,Amazon|Personal,,MXN,49.0
+txn_1786027549872_21d633,2026-08-03,gasto,125.0,Chilaquiles,Comida|trabajo,,MXN,125.0
+txn_1786027564181_10e650,2026-08-05,gasto,125.0,Chilaquiles,Comida|trabajo,,MXN,125.0
+txn_1786027624596_e8c82c,2026-08-05,gasto,848.0,Ropa,Personal,,MXN,848.0
+txn_1786126639096_c3fd22,2026-07-28,gasto,125.0,Comida IBM,Comida|trabajo,,MXN,125.0
+txn_1786415413200_77c4c5,2026-08-10,gasto,71.0,Dirty Chai,Cafe|trabajo,,MXN,71.0
+txn_1787532440446_a24288,2026-08-21,gasto,521.49,[Recurrente] Red Rising series,Amazon|Libros,rec_1784904718782,MXN,521.49
+txn_1788989039024_20485f,2026-08-07,gasto,324.0,Libro Pao,Libros|Cumpleaños|Personal,,MXN,324.0
+txn_1788989078609_0a2183,2026-08-15,gasto,890.95,Owala,Personal|Amazon,,MXN,890.95
+txn_1788989112171_f9fc36,2026-08-17,gasto,90.0,Chilaquiles,trabajo|Comida,,MXN,90.0
+txn_1788989149910_f21f4b,2026-08-19,gasto,79.0,Pizza (tango),trabajo|Comida,,MXN,79.0
+txn_1788989187044_1a5892,2026-08-22,gasto,494.2,Dados Pao,Amigos|Cumpleaños,,MXN,494.2
+txn_1788989223067_898787,2026-08-22,gasto,240.0,Madriguera (cumple Pao),Cumpleaños|Amigos,,MXN,240.0
+txn_1788989256348_c1e57f,2026-08-22,gasto,110.0,GPT,LLM|Personal,,MXN,110.0
+txn_1788989357468_d39918,2026-08-23,gasto,98.0,Acta de Nacimiento,Personal|trabajo,,MXN,98.0
+txn_1788989384826_f782d6,2026-08-24,gasto,109.0,Chilaquiles,trabajo|Comida,,MXN,109.0
+txn_1788989415531_10ccf5,2026-08-26,gasto,55.79,How to Fish,Personal|Steam,,MXN,55.79
+txn_1788989443761_5b1fdc,2026-08-27,gasto,60.0,Chilaquiles,Personal|trabajo,,MXN,60.0
+txn_1788989605033_fe7aeb,2026-08-29,gasto,49.0,Prime,Amazon|Personal,,MXN,49.0
+txn_1788989650328_dab6dc,2026-08-30,gasto,145.0,Cafe Origen,Personal|Cafe,,MXN,145.0
+txn_1788989671880_f8399c,2026-08-31,gasto,135.0,Chilaquiles,Comida|trabajo,,MXN,135.0
+txn_1788989810244_3a0d6c,2026-09-02,gasto,40.0,Takis veganos (Motion),Personal|MotionBuilder,,MXN,40.0
+txn_1788989846862_ae3484,2026-09-02,gasto,290.0,MotionBuilder,Personal|MotionBuilder,,MXN,290.0
+txn_1788989868594_05c5be,2026-09-02,gasto,139.0,Pollo del Qin,MotionBuilder|Personal,,MXN,139.0
+txn_1788989924340_449e25,2026-09-02,gasto,110.0,Bowl (Iteso),Personal|Comida|ITESO,,MXN,110.0
+txn_1788990202058_895c80,2026-09-08,gasto,1169.7,[Recurrente] Orient Bambino,Personal|Reloj,rec_1788990202034,MXN,1169.7
+txn_1790206684753_f1c00b,2026-09-21,gasto,521.49,[Recurrente] Red Rising series,Amazon|Libros,rec_1784904718782,MXN,521.49
+txn_1790207027856_58386c,2026-09-10,gasto,125.0,Chilaquiles,Comida|trabajo,,MXN,125.0
+txn_1790207059061_ac4ab5,2026-09-11,gasto,85.0,Bowl de arroz,Comida|ITESO,,MXN,85.0
+txn_1790207194081_203cce,2026-09-14,gasto,113.0,Chilaquiles,Comida|trabajo,,MXN,113.0
+txn_1790207215343_afa110,2026-09-14,gasto,69.0,Cafe IBM,Cafe|trabajo,,MXN,69.0
+txn_1790207254008_79d332,2026-09-19,gasto,338.5,Grupo de hombres,Comida|Iglesia,,MXN,338.5
+txn_1790207297541_61e4d2,2026-09-20,gasto,425.0,Playera Origen,Ropa|Iglesia,,MXN,425.0
+txn_1790207330204_622dde,2026-09-20,gasto,651.8,Percy Jackson,Libros|Amazon,,MXN,651.8
+txn_1790207350880_fe9e1a,2026-09-20,gasto,714.72,Six of Crows,Amazon|Libros,,MXN,714.72
+txn_1790207389977_1b33f2,2026-09-21,gasto,109.0,Chilaquiles,Comida|trabajo,,MXN,109.0
+txn_1790207425559_044b8a,2026-09-23,gasto,55.0,Sandwich,Comida|ITESO,,MXN,55.0
+txn_1790207445872_89472f,2026-09-22,gasto,110.0,ChatGpt,LLM|Personal,,MXN,110.0
+txn_1790207584896_6e316c,2026-09-19,gasto,79.0,Papas,Personal,,MXN,79.0
+txn_1790208758497_897cc3,2026-10-08,gasto,1169.7,[Recurrente] Orient Bambino,Personal|Reloj,rec_1788990202034,MXN,1169.7
