@@ -1,0 +1,10 @@
+services:
+  finanzas:
+    build: .
+    container_name: finanzas
+    restart: unless-stopped
+    ports:
+      - "8501:8501"
+    volumes:
+      # Los CSVs viven fuera de la imagen; sobreviven git pull y rebuilds
+      - ./data:/app/data
