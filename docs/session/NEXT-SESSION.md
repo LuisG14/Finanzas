@@ -1,54 +1,53 @@
-# NEXT-SESSION — Estado dinámico del proyecto
+# NEXT-SESSION â€” Estado dinamico del proyecto
 
-> Actualiza este archivo al final de cada sesión de trabajo.
+> Actualiza este archivo al final de cada sesion de trabajo.
 
 ---
 
 ## Estado del proyecto
 
-?? **En progreso** — App funcional en local. Despliegue en NAS pendiente.
+ðŸŸ¡ **En progreso** â€” Docker configurado. Falta levantar el contenedor en el NAS y verificar.
 
 ---
 
-## Track activo: T-05 — Despliegue en TrueNAS SCALE
+## Track activo: T-05 â€” Despliegue en TrueNAS SCALE
 
 ### Contexto
 - NAS: TrueNAS SCALE, IP `100.104.88.116`, usuario `admin`
 - Repo clonado en `/mnt/Luis/Finanzas`
-- SSH sin contraseña configurado desde la PC de desarrollo
-- Estrategia elegida: **Docker Compose** (no correr Streamlit directo en el shell)
+- SSH sin contrasena configurado desde la PC de desarrollo
+- Estrategia elegida: **Docker Compose**
 
 ### Tareas
 
-- [ ] Crear `Dockerfile` en la raíz del repo
-- [ ] Crear `docker-compose.yml` en la raíz del repo
-- [ ] Crear `update.sh` — script para `git pull + docker compose up --build`
-- [ ] Levantar el contenedor en el NAS y verificar acceso en `http://100.104.88.116:8501`
+- [x] Crear `Dockerfile`
+- [x] Crear `docker-compose.yml`
+- [x] Crear `update.sh`
+- [ ] Levantar el contenedor en el NAS: `cd /mnt/Luis/Finanzas && git pull && docker compose up -d --build`
+- [ ] Verificar acceso en `http://100.104.88.116:8501`
 - [ ] Confirmar que el servicio sobrevive un reinicio del NAS
 
 ---
 
-## Backlog (próximas sesiones)
+## Backlog (proximas sesiones)
 
-- [ ] Agregar `README.md` con instrucciones de instalación y uso
-- [ ] Evaluar si los datos (`data/`) deben montarse como volumen externo en Docker
-      para que un `git pull` no pise los CSVs actuales del NAS
+- [ ] Agregar `README.md` con instrucciones de instalacion y uso
+- [ ] Evaluar si `data/` debe excluirse del `.gitignore` en el NAS (los CSVs ya estan montados como volumen, pero el repo los sigue trackeando)
 
 ---
 
-## Comandos útiles
+## Comandos utiles
 
 ```bash
 # Conectar al NAS
 ssh admin@100.104.88.116
 
-# Ir al repo
-cd /mnt/Luis/Finanzas
+# Actualizar la app desde GitHub y reconstruir el contenedor
+cd /mnt/Luis/Finanzas && bash update.sh
 
-# Correr la app manualmente (sin Docker, para pruebas rápidas)
-pip install -r requirements.txt
-streamlit run app.py --server.port 8501 --server.headless true
+# O desde la PC directamente
+ssh admin@100.104.88.116 "cd /mnt/Luis/Finanzas && bash update.sh"
 
-# Ver logs del contenedor (cuando Docker esté configurado)
-docker compose logs -f
+# Ver logs en vivo
+ssh admin@100.104.88.116 "cd /mnt/Luis/Finanzas && docker compose logs -f"
 ```
